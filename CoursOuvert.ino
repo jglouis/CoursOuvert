@@ -13,6 +13,7 @@ CapacitiveSensor   cs_4_2 = CapacitiveSensor(7,8);        // 10M resistor betwee
 
 int led1 = 5;
 int led2 = 6;
+int led5 = 8;
 boolean on = false;
 
 void setup()                    
