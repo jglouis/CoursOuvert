@@ -12,6 +12,7 @@
 CapacitiveSensor   cs_4_2 = CapacitiveSensor(7,8);        // 10M resistor between pins 4 & 2, pin 2 is sensor pin, add a wire and or foil if desired
 
 int led1 = 5;
+int led2 = 6;
 boolean on = false;
 
 void setup()                    
