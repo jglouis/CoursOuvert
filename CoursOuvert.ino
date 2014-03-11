@@ -38,3 +38,11 @@ if(total1 > 2000)
 }
     delay(10);                             // arbitrary delay to limit data to serial port 
 }
+
+//Modif DG
+
+void newFunc()
+{
+}
+
+//END MODIF
