@@ -17,6 +17,8 @@ int led3 = 7;
 int led5 = 8;
 boolean on = false;
 
+//modif JG
+
 void setup()                    
 {
    cs_4_2.set_CS_AutocaL_Millis(0xFFFFFFFF);     // turn off autocalibrate on channel 1 - just as an example
